@@ -1,7 +1,7 @@
-package com.example.Mininet.indexes.service;
+package Mininet.indexes.service;
 
-import com.example.Mininet.indexes.controller.IndexController;
-import com.example.Mininet.indexes.model.Create_Topology_Model;
+import Mininet.indexes.controller.IndexController;
+import Mininet.indexes.model.Create_Topology_Model;
 import org.springframework.stereotype.Service;
 
 @Service

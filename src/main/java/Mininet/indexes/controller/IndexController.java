@@ -1,7 +1,7 @@
-package com.example.Mininet.indexes.controller;
+package Mininet.indexes.controller;
 
-import com.example.Mininet.indexes.model.Create_Topology_Model;
-import com.example.Mininet.indexes.service.Create_Topology_Service;
+import Mininet.indexes.model.Create_Topology_Model;
+import Mininet.indexes.service.Create_Topology_Service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

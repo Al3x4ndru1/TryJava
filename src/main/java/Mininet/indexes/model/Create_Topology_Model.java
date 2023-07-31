@@ -1,4 +1,4 @@
-package com.example.Mininet.indexes.model;
+package Mininet.indexes.model;
 
 
 import lombok.Data;
